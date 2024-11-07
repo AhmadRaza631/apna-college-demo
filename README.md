@@ -1,2 +1,3 @@
-# apna-college-demo
-this is my first Git Repository
+# apnacollege-demo
+this is my first Git Repository 
+author - Ahmad Raza
